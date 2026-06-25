@@ -1,6 +1,6 @@
 # Year 1 Lab Reports
 
-This repository contains my Year 1 lab reports for Electrical and Electronic Engineering at Imperial College London, covering **Analysis and Design of Circuits (ADC)**, **Digital Electronics and Computer Architecture (DECA)**, and completed **Lab Skills** sections.
+This repository contains my Year 1 lab reports for Electronic & Information Engineering (EIE) at Imperial College London, covering **Analysis and Design of Circuits (ADC)**, **Digital Electronics and Computer Architecture (DECA)**, and **Lab Skills** sections.
 
 Instruction links point to the official [EEE1labs](https://github.com/edstott/EEE1labs/tree/main) repository. Lab report links point to my submitted report files in this repository.
 
